@@ -1,0 +1,14 @@
+MASTER META-PROMPT:
+[... truncated for brevity in demonstration; replace with full prompt from chat ...]
+
+SECTION PROMPTS:
+1. Navigation Bar Prompt:
+[...]
+2. Hero Section Prompt:
+[...]
+3. Services Section Prompt:
+[...]
+4. Contact Form Prompt:
+[...]
+5. Footer Prompt:
+[...]
